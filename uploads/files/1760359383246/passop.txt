@@ -1,0 +1,52 @@
+[
+  {
+    "website": "https://example1.com",
+    "username": "user1@example.com",
+    "password": "P@ssw0rd1!"
+  },
+  {
+    "website": "https://example2.com",
+    "username": "user2@example.com",
+    "password": "P@ssw0rd2!"
+  },
+  {
+    "website": "https://example3.com",
+    "username": "user3@example.com",
+    "password": "P@ssw0rd3!"
+  },
+  {
+    "website": "https://example4.com",
+    "username": "user4@example.com",
+    "password": "P@ssw0rd4!"
+  },
+  {
+    "website": "https://example5.com",
+    "username": "user5@example.com",
+    "password": "P@ssw0rd5!"
+  },
+  {
+    "website": "https://example6.com",
+    "username": "user6@example.com",
+    "password": "P@ssw0rd6!"
+  },
+  {
+    "website": "https://example7.com",
+    "username": "user7@example.com",
+    "password": "P@ssw0rd7!"
+  },
+  {
+    "website": "https://example8.com",
+    "username": "user8@example.com",
+    "password": "P@ssw0rd8!"
+  },
+  {
+    "website": "https://example9.com",
+    "username": "user9@example.com",
+    "password": "P@ssw0rd9!"
+  },
+  {
+    "website": "https://example10.com",
+    "username": "user10@example.com",
+    "password": "P@ssw0rd10!"
+  }
+]
